@@ -923,7 +923,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "database-jit"
+name = "dataflow-jit"
 version = "0.1.0"
 dependencies = [
  "bitflags",
