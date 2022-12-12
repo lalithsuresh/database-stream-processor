@@ -932,6 +932,7 @@ dependencies = [
  "dbsp",
  "derive_more",
  "enum_dispatch",
+ "paste",
  "target-lexicon",
 ]
 
